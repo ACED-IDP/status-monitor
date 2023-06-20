@@ -5,16 +5,16 @@
     "icon": "https://development.aced-idp.org/src/img/favicon.ico",
     "slug": "development",
     "status": "up",
-    "uptime": "94.76%",
-    "uptimeDay": "94.76%",
-    "uptimeWeek": "94.76%",
-    "uptimeMonth": "94.76%",
-    "uptimeYear": "94.76%",
-    "time": 669,
-    "timeDay": 669,
-    "timeWeek": 669,
-    "timeMonth": 669,
-    "timeYear": 669,
+    "uptime": "95.07%",
+    "uptimeDay": "95.07%",
+    "uptimeWeek": "95.07%",
+    "uptimeMonth": "95.07%",
+    "uptimeYear": "95.07%",
+    "time": 647,
+    "timeDay": 647,
+    "timeWeek": 647,
+    "timeMonth": 647,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2023-06-20": 9
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 315,
-    "timeWeek": 315,
-    "timeMonth": 315,
-    "timeYear": 315,
+    "time": 311,
+    "timeDay": 311,
+    "timeWeek": 311,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {}
   }
 ]
