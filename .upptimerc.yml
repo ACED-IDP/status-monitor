@@ -1,6 +1,5 @@
-# Change these first
-owner: ACED-IDP # Your GitHub organization or username, where this repository lives
-repo: status-monitor # The name of this repository
+owner: ACED-IDP
+repo: status-monitor
 
 sites:
   - name: Development
