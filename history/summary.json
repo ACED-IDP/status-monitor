@@ -4,19 +4,19 @@
     "url": "https://development.aced-idp.org",
     "icon": "https://icons.duckduckgo.com/ip3/development.aced-idp.org.ico",
     "slug": "development",
-    "status": "down",
-    "uptime": "97.42%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "97.42%",
-    "uptimeMonth": "97.42%",
-    "uptimeYear": "97.42%",
-    "time": 397,
-    "timeDay": 397,
-    "timeWeek": 397,
-    "timeMonth": 397,
-    "timeYear": 397,
+    "status": "up",
+    "uptime": "94.10%",
+    "uptimeDay": "94.10%",
+    "uptimeWeek": "94.10%",
+    "uptimeMonth": "94.10%",
+    "uptimeYear": "94.10%",
+    "time": 766,
+    "timeDay": 766,
+    "timeWeek": 766,
+    "timeMonth": 766,
+    "timeYear": 766,
     "dailyMinutesDown": {
-      "2023-06-20": 4
+      "2023-06-20": 9
     }
   },
   {
