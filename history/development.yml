@@ -1,7 +1,7 @@
 url: https://development.aced-idp.org
-status: up
-code: 200
-responseTime: 583
-lastUpdated: 2023-06-20T20:55:10.771Z
+status: down
+code: 502
+responseTime: 285
+lastUpdated: 2023-06-20T21:26:23.142Z
 startTime: Tue Jun 20 2023 18:54:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
