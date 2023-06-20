@@ -12,7 +12,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /status-monitor
+  baseUrl: /status
   logoUrl: https://github.com/ACED-IDP/status-monitor/assets/15309567/5bf353e1-5e75-44aa-b1c6-b70ba4156871
   name: ""
   introTitle: "Status of ACED-IDP Data Commons"
