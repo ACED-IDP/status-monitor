@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/development.aced-idp.org.ico",
     "slug": "development",
     "status": "up",
-    "uptime": "94.10%",
-    "uptimeDay": "94.10%",
-    "uptimeWeek": "94.10%",
-    "uptimeMonth": "94.10%",
-    "uptimeYear": "94.10%",
-    "time": 766,
-    "timeDay": 766,
-    "timeWeek": 766,
-    "timeMonth": 766,
-    "timeYear": 766,
+    "uptime": "94.59%",
+    "uptimeDay": "94.59%",
+    "uptimeWeek": "94.59%",
+    "uptimeMonth": "94.59%",
+    "uptimeYear": "94.59%",
+    "time": 709,
+    "timeDay": 709,
+    "timeWeek": 709,
+    "timeMonth": 709,
+    "timeYear": 709,
     "dailyMinutesDown": {
       "2023-06-20": 9
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 367,
-    "timeDay": 367,
-    "timeWeek": 367,
-    "timeMonth": 367,
-    "timeYear": 367,
+    "time": 338,
+    "timeDay": 338,
+    "timeWeek": 338,
+    "timeMonth": 338,
+    "timeYear": 338,
     "dailyMinutesDown": {}
   }
 ]
