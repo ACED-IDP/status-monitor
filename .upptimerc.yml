@@ -4,6 +4,7 @@ repo: status-monitor
 sites:
   - name: Development
     url: https://development.aced-idp.org
+    icon: https://development.aced-idp.org/src/img/favicon.ico
   - name: Staging
     url: https://staging.aced-idp.org
 
