@@ -5,14 +5,14 @@
     "icon": "https://development.aced-idp.org/src/img/favicon.ico",
     "slug": "development",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
     "time": 486,
     "timeDay": 563,
-    "timeWeek": 486,
+    "timeWeek": 505,
     "timeMonth": 486,
     "timeYear": 486,
     "dailyMinutesDown": {
@@ -26,17 +26,19 @@
     "url": "https://staging.aced-idp.org",
     "icon": "https://icons.duckduckgo.com/ip3/staging.aced-idp.org.ico",
     "slug": "staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 568,
-    "timeWeek": 341,
-    "timeMonth": 341,
-    "timeYear": 341,
-    "dailyMinutesDown": {}
+    "time": 348,
+    "timeDay": 537,
+    "timeWeek": 349,
+    "timeMonth": 348,
+    "timeYear": 348,
+    "dailyMinutesDown": {
+      "2023-06-27": 0
+    }
   }
 ]
