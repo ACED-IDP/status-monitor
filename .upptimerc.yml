@@ -4,7 +4,7 @@ repo: status-monitor
 sites:
   - name: ACED-IDP Portal
     url: https://aced-idp.org
-  - name: ACED-IDP Documentation
+  - name: ACED-IDP User Documentation
     url: https://aced-idp.github.io
 
 status-website:
