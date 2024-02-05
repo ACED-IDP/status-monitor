@@ -2,12 +2,14 @@ owner: ACED-IDP
 repo: status-monitor
 
 sites:
-  - name: Development
-    url: https://development.aced-idp.org
   - name: Production
     url: https://aced-idp.org
   - name: Staging
     url: https://staging.aced-idp.org
+  - name: Development
+    url: https://development.aced-idp.org
+  - name: Documentation
+    url: https://aced-idp.github.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
