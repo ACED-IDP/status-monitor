@@ -22,6 +22,8 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: light
+  scripts:
+    - src: https://raw.githubusercontent.com/ACED-IDP/status-monitor/master/hide-sections.js
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
