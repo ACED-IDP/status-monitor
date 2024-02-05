@@ -2,13 +2,16 @@ owner: ACED-IDP
 repo: status-monitor
 
 sites:
-  - name: Development
-    url: https://development.aced-idp.org
-    icon: https://development.aced-idp.org/src/img/favicon.ico
-  - name: Staging
-    url: https://staging.aced-idp.org
   - name: Production
     url: https://aced-idp.org
+  - name: Staging
+    url: https://staging.aced-idp.org
+  - name: Development
+    url: https://development.aced-idp.org
+  - name: OHSU MinIO
+    url: https://aced-idp.org
+  - name: UCL MinIO
+    url: https://idp-dev.cs.ucl.ac.uk/minio/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
