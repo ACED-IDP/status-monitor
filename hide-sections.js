@@ -9,10 +9,8 @@ function contains(t, n) {
     })
 }
 window.onload = function() {
-    setTimeout(function() {
-        foundDivsScheduledMaintenance = contains('section', 'Past Scheduled Maintenance');
-        foundDivsScheduledMaintenance[0].remove(); // Removes Active Incidents Section
-        foundDivsPastIncidents = contains('section', 'Past Incidents');
-        foundDivsPastIncidents[0].remove(); // Removes Past Incidents Section
-    }, 5000);
+    foundDivsScheduledMaintenance = contains('section', 'Past Scheduled Maintenance');
+    foundDivsScheduledMaintenance[0].remove(); // Removes Active Incidents Section
+    foundDivsPastIncidents = contains('section', 'Past Incidents');
+    foundDivsPastIncidents[0].remove(); // Removes Past Incidents Section
 }
