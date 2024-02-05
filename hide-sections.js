@@ -10,7 +10,7 @@ function contains(t, n) {
 }
 window.onload = function() {
     foundDivsScheduledMaintenance = contains('section', 'Past Scheduled Maintenance');
-    foundDivsScheduledMaintenance[0].remove(); // Removes Active Incidents Section
+    foundDivsScheduledMaintenance[0].remove(); // Removes Past Scheduled Maintenance
     foundDivsPastIncidents = contains('section', 'Past Incidents');
     foundDivsPastIncidents[0].remove(); // Removes Past Incidents Section
 }
