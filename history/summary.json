@@ -1,5 +1,33 @@
 [
   {
+    "name": "Development",
+    "url": "https://development.aced-idp.org",
+    "icon": "https://icons.duckduckgo.com/ip3/development.aced-idp.org.ico",
+    "slug": "development",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.92%",
+    "time": 456,
+    "timeDay": 375,
+    "timeWeek": 411,
+    "timeMonth": 442,
+    "timeYear": 456,
+    "dailyMinutesDown": {
+      "2024-01-18": 15,
+      "2023-10-17": 5,
+      "2023-10-16": 12,
+      "2023-09-05": 26,
+      "2023-08-29": 99,
+      "2023-08-04": 20,
+      "2023-06-22": 28,
+      "2023-06-21": 12,
+      "2023-06-20": 46
+    }
+  },
+  {
     "name": "Production",
     "url": "https://aced-idp.org",
     "icon": "https://icons.duckduckgo.com/ip3/aced-idp.org.ico",
@@ -10,11 +38,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 404,
-    "timeDay": 384,
-    "timeWeek": 417,
-    "timeMonth": 397,
-    "timeYear": 404,
+    "time": 403,
+    "timeDay": 355,
+    "timeWeek": 402,
+    "timeMonth": 394,
+    "timeYear": 403,
     "dailyMinutesDown": {
       "2023-10-18": 27,
       "2023-06-23": 1,
@@ -34,41 +62,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 454,
-    "timeDay": 445,
-    "timeWeek": 456,
-    "timeMonth": 437,
+    "timeDay": 412,
+    "timeWeek": 442,
+    "timeMonth": 433,
     "timeYear": 454,
     "dailyMinutesDown": {
       "2023-07-20": 10,
       "2023-06-27": 5
-    }
-  },
-  {
-    "name": "Development",
-    "url": "https://development.aced-idp.org",
-    "icon": "https://icons.duckduckgo.com/ip3/development.aced-idp.org.ico",
-    "slug": "development",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.92%",
-    "time": 457,
-    "timeDay": 436,
-    "timeWeek": 435,
-    "timeMonth": 449,
-    "timeYear": 457,
-    "dailyMinutesDown": {
-      "2024-01-18": 15,
-      "2023-10-17": 5,
-      "2023-10-16": 12,
-      "2023-09-05": 26,
-      "2023-08-29": 99,
-      "2023-08-04": 20,
-      "2023-06-22": 28,
-      "2023-06-21": 12,
-      "2023-06-20": 46
     }
   }
 ]
