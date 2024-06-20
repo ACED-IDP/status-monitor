@@ -2,7 +2,9 @@ owner: ACED-IDP
 repo: status-monitor
 
 sites:
-  - name: ACED-IDP Portal
+  - name: ACED-IDP Portal (Development)
+    url: https://development.aced-idp.org
+  - name: ACED-IDP Portal (Production/Legacy)
     url: https://aced-idp.org
   - name: ACED-IDP User Documentation
     url: https://aced-idp.github.io
