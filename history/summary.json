@@ -1,24 +1,39 @@
 [
   {
-    "name": "ACED-IDP Portal",
+    "name": "ACED-IDP Portal (Development)",
+    "url": "https://development.aced-idp.org",
+    "icon": "https://icons.duckduckgo.com/ip3/development.aced-idp.org.ico",
+    "slug": "aced-idp-portal-development",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 216,
+    "timeDay": 216,
+    "timeWeek": 216,
+    "timeMonth": 216,
+    "timeYear": 216,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "ACED-IDP Portal (Production/Legacy)",
     "url": "https://aced-idp.org",
     "icon": "https://icons.duckduckgo.com/ip3/aced-idp.org.ico",
-    "slug": "aced-idp-portal",
+    "slug": "aced-idp-portal-production-legacy",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
-    "time": 424,
-    "timeDay": 510,
-    "timeWeek": 457,
-    "timeMonth": 433,
-    "timeYear": 424,
-    "dailyMinutesDown": {
-      "2024-06-20": 16,
-      "2024-06-19": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 194,
+    "timeDay": 194,
+    "timeWeek": 194,
+    "timeMonth": 194,
+    "timeYear": 194,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ACED-IDP User Documentation",
@@ -31,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 83,
-    "timeDay": 35,
+    "time": 84,
+    "timeDay": 75,
     "timeWeek": 112,
-    "timeMonth": 95,
-    "timeYear": 83,
+    "timeMonth": 96,
+    "timeYear": 84,
     "dailyMinutesDown": {}
   }
 ]
