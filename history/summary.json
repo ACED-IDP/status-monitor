@@ -4,18 +4,20 @@
     "url": "https://development.aced-idp.org",
     "icon": "https://icons.duckduckgo.com/ip3/development.aced-idp.org.ico",
     "slug": "aced-idp-portal-development",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 632,
-    "timeDay": 357,
-    "timeWeek": 511,
-    "timeMonth": 657,
-    "timeYear": 632,
-    "dailyMinutesDown": {}
+    "time": 629,
+    "timeDay": 442,
+    "timeWeek": 513,
+    "timeMonth": 653,
+    "timeYear": 629,
+    "dailyMinutesDown": {
+      "2024-07-30": 0
+    }
   },
   {
     "name": "ACED-IDP Portal (Production/Legacy)",
