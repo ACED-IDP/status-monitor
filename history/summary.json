@@ -6,15 +6,15 @@
     "slug": "aced-idp-portal-development",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 630,
-    "timeDay": 601,
-    "timeWeek": 518,
-    "timeMonth": 652,
-    "timeYear": 630,
+    "time": 629,
+    "timeDay": 579,
+    "timeWeek": 514,
+    "timeMonth": 647,
+    "timeYear": 629,
     "dailyMinutesDown": {
       "2024-07-30": 5
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 482,
-    "timeDay": 758,
-    "timeWeek": 493,
-    "timeMonth": 504,
-    "timeYear": 482,
+    "time": 485,
+    "timeDay": 609,
+    "timeWeek": 495,
+    "timeMonth": 505,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2024-07-22": 5
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 84,
-    "timeDay": 66,
-    "timeWeek": 101,
-    "timeMonth": 89,
+    "timeDay": 76,
+    "timeWeek": 100,
+    "timeMonth": 90,
     "timeYear": 84,
     "dailyMinutesDown": {}
   }
