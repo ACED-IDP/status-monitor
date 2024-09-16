@@ -4,7 +4,7 @@
     "url": "https://development.aced-idp.org",
     "icon": "https://icons.duckduckgo.com/ip3/development.aced-idp.org.ico",
     "slug": "aced-idp-portal-development",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.93%",
@@ -16,6 +16,7 @@
     "timeMonth": 643,
     "timeYear": 620,
     "dailyMinutesDown": {
+      "2024-09-16": 0,
       "2024-09-12": 7,
       "2024-08-14": 6,
       "2024-08-13": 5,
