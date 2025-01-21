@@ -4,10 +4,14 @@ repo: status-monitor
 sites:
   - name: ACED-IDP Portal (Development)
     url: https://development.aced-idp.org
+    maxResponseTime: 300000
   - name: ACED-IDP Portal (Production/Legacy)
     url: https://aced-idp.org
+    maxResponseTime: 300000
   - name: ACED-IDP User Documentation
     url: https://aced-idp.github.io
+    maxResponseTime: 300000
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
